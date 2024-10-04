@@ -1,0 +1,805 @@
+species id	species lat	species eng	species heb	label eng	label heb	label heb 2				
+5	Podiceps nigricollis	Black-necked Grebe	טבלן בינוני	tavlanb	טבלןב					
+6	Tachybaptus ruficollis	Little Grebe	טבלן גמדי	tavlang	טבלןג	טבלן				
+7	Podiceps cristatus	Great Crested Grebe	טבלן מצויץ	tavlanm	טבלןמ					
+33	Phalacrocorax carbo	Great Cormorant	קורמורן גדול	kormorang	קורמורןג					
+34	Phalacrocorax pygmeus	Pygmy Cormorant	קורמורן גמדי	kormorank	קורמורן					
+37	Pelecanus onocrotalus	White Pelican	שקנאי לבן	saknai	שקנאי					
+40	Botaurus stellaris	Great Bittern	אנפה משורטטת	anafam	אנפהמ					
+41	Ixobrychus minutus	Little Bittern	אנפית גמדית	anafag	אנפהג					
+42	Nycticorax nycticorax	Black-crowned Night Heron	אנפת לילה	anafatl	אנפתל					
+43	Butorides striatus	Mangrove Heron	אנפית מנגרובים	anafitm	אנפיתמ					
+45	Bubulcus ibis	Cattle Egret	אנפית בקר	anafitb	אנפיתב					
+46	Ardeola ralloides	Squacco Heron	אנפית סוף	anafits	אנפיתס					
+47	Egretta garzetta	Little Egret	לבנית קטנה	livnitk	לבניתק					
+49	Casmerodius albus	Great Egret	לבנית גדולה	livnitg	לבניתג					
+50	Ardea cinerea	Grey Heron	אנפה אפורה	anafaaf	אנפהאפ					
+51	Ardea purpurea	Purple Heron	אנפה ארגמנית	anafaar	אנפהאר					
+57	Ciconia ciconia	White Stork	חסידה לבנה	hasidal	חסידה					
+58	Ciconia nigra	Black Stork	חסידה שחורה	hasidash	חסידהש					
+59	Plegadis falcinellus	Glossy Ibis	מגלן חום	maglan	מגלן					
+61	Platalea leucorodia	Eurasian Spoonbill	כפן 	kapan	כפן					
+62	Phoenicopterus ruber	Greater Flamingo	פלמינגו מצוי	flamingo	פלמינגו					
+64	Cygnus olor	Mute Swan	ברבור מצוי	barbur	ברבור					
+67	Anser albifrons	Greater White-fronted Goose	אווז לבן מצח	avazl	אווזלמ					
+69	Anser anser	Greylag Goose	אווז אפור	avaza	אווזא					
+74	Alopochen aegyptiacus	Egyptian Goose	יאורית מצרית	yeorit	יאורית					
+75	Tadorna tadorna	Common Shelduck	טדורנה ירוקת ראש	tadorna	טדורנה					
+76	Tadorna ferruginea	Ruddy Shelduck	קזרקה חלודית	kazarka	קזרקה					
+77	Anas platyrhynchos	Mallard	ברכיה	brehia	ברכיה					
+78	Anas strepera	Gadwall	ברווז אפור	barvaza	ברווזא					
+79	Anas acuta	Northern Pintail	ברווז חד זנב	barvazh	ברווזחז					
+80	Anas clypeata	Northern Shoveler	מרית	marit	מרית					
+81	Anas penelope	Eurasian Wigeon	ברווז צהוב מצח	barvazz	ברווזצמ	ברווזצ				
+82	Anas crecca	Common Teal	שרשיר	sharshir	שרשיר					
+85	Anas querquedula	Garganey	קרקיר	karkir	קרקיר					
+86	Marmaronetta angustirostris	Marbled Duck	ברווז משויש	barvazm	ברווזמ					
+87	Aythya ferina	Common Pochard	צולל חלודי	tsolelh	צוללח					
+88	Netta rufina	Red-crested Pochard	נטה אדומת ראש	nata	נטה					
+90	Aythya nyroca	Ferruginous Duck	צולל ביצות	tsolelb	צוללב					
+92	Aythya fuligula	Tufted Duck	צולל מצויץ	tsolelm	צוללמ					
+100	Oxyura leucocephala	White-headed Duck	צחראש לבן	tsahrosh	צחראש					
+103	Gyps fulvus	Eurasian Griffon Vulture	נשר מקראי	nesher	נשר					
+104	Aegypius monachus	Cinereous Vulture	עזנייה שחורה	oznia	עזנייה					
+106	Neophron percnopterus	Egyptian Vulture	רחם מדברי	raham	רחם					
+107	Haliaeetus albicilla	White-tailed Eagle	עיטם לבן זנב	eitam	עיטם					
+108	Aquila chrysaetos	Golden Eagle	עיט זהוב	aitz	עיטז					
+109	Aquila heliaca	Eastern Imperial Eagle	עיט שמש	aitsh	עיטש					
+110	Aquila pomarina	Lesser Spotted Eagle	עיט חורש	aith	עיטח					
+111	Aquila clanga	Greater Spotted Eagle	עיט צפרדעים	aitts	עיטצ					
+112	Aquila nipalensis	Steppe Eagle	עיט ערבות	aita	עיטע					
+116	Circaetus gallicus	Short-toed Eagle	חיוויאי הנחשים	hivyai	חיוויאי	חויאי				
+117	Hieraaetus pennatus	Booted Eagle	עיט גמדי	aitg	עיטג					
+118	Hieraaetus fasciatus	Bonelli's Eagle	עיט ניצי	aitn	עיטנ					
+120	Milvus migrans	Black Kite	דיה שחורה	dayash	דיה					
+122	Circus aeruginosus	Marsh Harrier	זרון סוף	zeronsu	זרוןס					
+123	Elanus caeruleus	Black-winged Kite	דאה שחורת כתף	dea	דאה					
+124	Circus cyaneus	Hen Harrier	זרון תכול	zerot	זרוןת					
+125	Circus pygargus	Montagu's Harrier	זרון פס	zeronp	זרוןפ					
+126	Circus macrourus	Pallid Harrier	זרון שדות	zeronsa	זרוןש					
+128	Buteo rufinus	Long-legged Buzzard	עקב עיטי	akavi	עקבע					
+129	Buteo buteo	Common Buzzard	עקב חורף	akavh	עקבח					
+130	Pernis apivorus	European Honey Buzzard	איית צרעים	ayyat	איה					
+131	Pernis ptilorhynchus	Crested Honey Buzzard	איה מצויצת	aya	איהמ					
+132	Accipiter nisus	Eurasian Sparrowhawk	נץ מצוי	nets	נץ					
+134	Accipiter brevipes	Levant Sparrowhawk	נץ קצר אצבעות	netsk	נץקא					
+137	Pandion haliaetus	Osprey	שלך	shalah	שלך					
+138	Falco tinnunculus	Common Kestrel	בז מצוי	baz	בז					
+139	Falco naumanni	Lesser Kestrel	בז אדום	baza	בזא					
+140	Falco vespertinus	Red-footed Falcon	בז ערב	bazer	בזער					
+141	Falco subbuteo	Eurasian Hobby	בז עצים	bazets	בזעצ					
+142	Falco eleonorae	Eleonora's Falcon	בז חופים	bazh	בזח					
+144	Falco peregrinus	Peregrine Falcon	בז נודד	bazn	בזנ					
+146	Falco columbarius	Merlin	בז גמדי	bazg	בזג					
+149	Francolinus francolinus	Black Francolin	פרנקולין שחור	francolin	פרנקולין	frankolin				
+150	Alectoris chukar	Chukar	חוגלת סלעים	hogla	חוגלה					
+152	Coturnix coturnix	Common Quail	שליו נודד	slav	שליו					
+153	Crex crex	Corncrake	מלכישליו חלודי	malkislav	מלכישליו					
+154	Rallus aquaticus	Water Rail	רלית המים	ralit	רלית					
+155	Porzana porzana	Spotted Crake	ברודית גדולה	broditgd	ברודיתגד					
+156	Porzana parva	Little Crake	ברודית קטנה	broditk	ברודיתק					
+157	Porzana pusilla	Baillon's Crake	ברודית גמדית	broditga	ברודיתגמ					
+158	Gallinula chloropus	Common Moorhen	סופית 	sufit	סופית					
+159	Fulica atra	Common Coot	אגמית	agamit	אגמית					
+160	Porphyrio porphyrio	Purple Swamp-hen	פורפיריה כחולה	poriferia	פורפיריה					
+161	Grus grus	Common Crane	עגור אפור	agur	עגור					
+162	Anthropoides virgo	Demoiselle Crane	עגור חן	agurh	עגורח					
+165	Tetrax tetrax	Little Bustard	חובה קטנה	hova	חובה					
+168	Recurvirostra avosetta	Pied Avocet	סייפן עקוד	sayfan	סייפן					
+169	Himantopus himantopus	Black-winged Stilt	תמירון	tmiron	תמירון					
+171	Burhinus oedicnemus	Stone-curlew	כרוון מצוי	kervan	כרוון					
+174	Glareola pratincola	Collard Pratincole	שדמית אדומת כנף	shadmita	שדמיתאכ					
+175	Glareola nordmanni	Black-winged Pratincole	שדמית שחורת כנף	shadmitsh	שדמיתשכ					
+177	Charadrius dubius	Little Ringed Plover	חופמי גדות	jofmig	חופמיג					
+178	Charadrius hiaticula	Common Ringed Plover	חופמי צווארון	hofmits	חופמיצ					
+179	Charadrius alexandrinus	Kentish Plover	חופמי אלכסנדרי	hofmia	חופמיא					
+184	Pluvialis squatarola	Grey Plover	חופזי מנומר	hofzim	חופזימ					
+185	Pluvialis apricaria	Eurasian Golden Plover	חופזי זהוב	hofziz	חופזיצ					
+190	Vanellus vanellus	Northern Lapwing	קיווית מצויצת	kivit	קיווית					
+191	Vanellus spinosus	Spur-winged Lapwing	סיקסק	siksak	סיקסק					
+197	Calidris alba	Sanderling	חופית לבנה	hofitl	חופיתל					
+198	Calidris alpina	Dunlin	חופית אלפינית	hofita	חופיתא					
+199	Calidris ferruginea	Curlew Sandpiper	חופית מגלית	hofitm	חופיתמ					
+204	Calidris temminckii	Temminck's Stint	חופית טמינק	hofitt	חופיתט					
+205	Calidris minuta	Little Stint	חופית קטנה	hofitk	חופיתק					
+208	Limicola falcinellus	Broad-billed Sandpiper	חרמשית	harmeshit	חרמשית					
+210	Philomachus pugnax	Ruff	לוחם	lohem	לוחם					
+211	Gallinago media	Great Snipe	חרטומית בינונית	hartumitbe	חרטומיתבינ					
+212	Gallinago gallinago	Common Snipe	חרטומית ביצות	hartumitbi	חרטומיתביצ	חרטומית				
+213	Lymnocryptes minimus	Jack Snipe	חרטומית גמדית	hartumitg	חרטומיתג					
+215	Scolopax rusticola	Eurasian Woodcock	חרטומן יערות	jartuman	חרטומן					
+217	Limosa limosa	Black-tailed Godwit	לימוזה מצויה	limoza	לימוזה					
+219	Numenius arquata	Eurasian Curlew	חרמשון גדול	harmeshong	חרמשוןג					
+220	Numenius phaeopus	Whimbrel	חרמשון קטן	jarmeshonk	חרמשוןק					
+222	Tringa glareola	Wood Sandpiper	ביצנית מנומרת	bitsanitm	ביצניתמ					
+223	Tringa ochropus	Green Sandpiper	ביצנית שחורת כנף	bitsanitsh	ביצניתשכ					
+224	Tringa totanus	Common Redshank	ביצנית לבנת כנף	bitsanitlivk	ביצניתלכ					
+225	Tringa erythropus	Spotted Redshank	ביצנית אדומת רגל	bitsanita	ביצניתאר					
+226	Tringa nebularia	Common Greenshank	ביצנית ירוקת רגל	bitsanity	ביצניתיר					
+227	Tringa stagnatilis	Marsh Sandpiper	ביצנית עדינה	bitsanitadina	ביצניתע					
+230	Actitis hypoleucos	Common Sandpiper	ביצנית לבנת בטן	bitsanitlib	ביצניתלב					
+242	Larus ridibundus	Black-headed Gull	שחף אגמים	shahafag	שחףא					
+243	Larus genei	Slender-billed Gull	שחף צר מקור	shahaftsarm	שחףצמ					
+244	Larus canus	Common Gull	שחף אפרורי	shahafaf	שחףא					
+248	Larus fuscus	Lesser Black-backed Gull	שחף שחור 	shahafsh	שחףש					
+250	Larus michahellis	Yellow-legged Gull	שחף צהוב רגל	shahaftsr	שחףצר					
+251	Larus armenicus	Armenian Gull	שחף ארמני	shahafar	שחףא					
+252	Larus cachinnans	Caspian Gull	שחף כוזרי/הים הכספי	shahafca	שחףכ					
+253	Larus ichthyaetus	Pallas's Gull	שחף עיטי	shahafei	שחףע					
+254	Larus minutus	Little Gull	שחף גמדי	shahafg	שחףג					
+261	Sterna albifrons	Little Tern	שחפית גמדית	shhafitg	שחפיתג					
+262	Sterna sandvicensis	Sandwich Tern	שחפית שחורת מקור	shhafitshm	שחפיתשמ					
+263	Sterna nilotica	Gull-Billed Tern	שחפית עבת מקור	shhafitam	שחפיתעמ					
+264	Sterna hirundo	Common Tern	שחפית ים	shhafity	שחפיתי					
+273	Chlidonias niger	Black Tern	מרומית שחורה	meromitsh	מרומיתש					
+274	Chlidonias leucopterus	White-winged Tern	מרומית לבנת כנף	meromitlk	מרומיתלכ					
+275	Chlidonias hybridus	Whiskered Tern	מרומית לבנת לחי	meromitll	מרומיתלל					
+282	Columba livia	Rock Dove	יונת סלעים	yonats	יונתס					
+283	Columba oenas	Stock Dove	יונת עצים	yonate	יונתעצ					
+284	Columba palumbus	Wood Pigeon	יונת ענק	yonata	יונתענ					
+286	Streptopelia decaocto	Eurasian Collared Dove	תור צווארון	torts	תורצ					
+287	Streptopelia turtur	European Turtle Dove	תור מצוי	torm	תורמ					
+289	Streptopelia senegalensis	Laughing Dove	צוצלת	tsotselet	צוצלת					
+290	Oena capensis	Namaqua Dove	תורית זנבתנית	torit	תורית					
+292	Cuculus canorus	Common Cuckoo	קוקיה אירופית	kukiae	קוקיהא					
+294	Clamator glandarius	Great Spotted Cuckoo	קוקיה מצויצת	kiukiam	קוקיהמ					
+295	Tyto alba	Barn Owl	תנשמת לבנה	tinshemet	תנשמת					
+296	Strix aluco	Tawny Owl	לילית מצויה	lilit	לילית					
+298	Bubo bubo	Eurasian Eagle Owl	אוח עיטי	oah	אוח					
+301	Asio otus	Long-eared Owl	ינשוף עצים	yanshufe	ינשוףע					
+302	Asio flammeus	Short-eared Owl	ינשוף שדות	yanshufs	ינשוףש					
+303	Athene noctua	Little Owl	כוס החורבות	kos	כוס					
+304	Otus scops	Eurasian Scops Owl	שעיר מצוי	sair	שעיר					
+306	Caprimulgus europaeus	European Nightjar	תחמס אירופי	tahmas	תחמס					
+309	Apus apus	Common Swift	סיס החומות	sish	סיסח					
+311	Tachymarptis melba	Alpine Swift	סיס הרים	sisa	סיסה					
+312	Apus affinis	Little Swift	סיס גליל	sisg	סיסג					
+313	Alcedo atthis	Common Kingfisher	שלדג גמדי	shaldagg	שלדגג					
+314	Halcyon smyrnensis	White-throated Kingfisher	שלדג לבן חזה	shaldag	שלדג					
+315	Ceryle rudis	Pied Kingfisher	פרפור עקוד	parpur	פרפור					
+316	Merops apiaster	European Bee-eater	שרקרק מצוי	shrakrak	שרקרק	שרקרקים				
+317	Merops persicus	Blue-cheeked Bee-eater	שרקרק ירוק	shrakraky	שרקרקי					
+320	Psittacula krameri	Rose-ringed Parakeet	דררה מצויה	drara	דררה	דררות				
+323	Coracias garrulus	European Roller	כחל מצוי	kahal	כחל					
+325	Upupa epops	Eurasian Hoopoe	דוכיפת 	duhifat	דוכיפת					
+326	Dendrocopos syriacus	Syrian Woodpecker	נקר סורי	nakar	נקר					
+327	Jynx torquilla	Eurasian Wryneck	סבראש	savrosh	סבראש					
+328	Alauda arvensis	Common Skylark	זרעית השדה	zarit	זרעית					
+330	Galerida cristata	Crested Lark	עפרוני מצויץ	efroni	עפרונימ	עפרוני				
+331	Lullula arborea	Woodlark	חוגת עצים	hogat	חוגת					
+332	Calandrella brachydactyla	Greater Short-toed Lark	עפרונן קצר אצבעות 	efronan	עפרונן					
+340	Melanocorypha calandra	Calandra Lark	עפרוני ענק	efronia	עפרוניע					
+343	Eremophila alpestris	Horned Lark	צחיחנית החרמון	tshihanit	צחיחנית					
+346	Riparia riparia	Sand Martin	כוכית גדות	kohit	כוכיתג					
+351	Hirundo rustica	Barn Swallow	סנונית רפתות	snonit	סנוניתר					
+352	Hirundo daurica	Red-rumped Swallow	סנונית מערות	snonitm	סנוניתמ					
+353	Delichon urbica	Common House Martin	טסית בתים	tasit	טסיתב					
+355	Anthus campestris	Tawny Pipit	פיפיון צהוב	pipyonts	פיפיוןצ					
+356	Anthus similis	Long-billed Pipit	פיפיון הרים	pipyona	פיפיוןה					
+357	Anthus richardi	Richard's Pipit	פיפיון ארך רגליים	pipyoner	פיפיוןאר					
+359	Anthus spinoletta	Water Pipit	פיפיון מים	pipyonma	פיפיוןמ	פיפיוןמים				
+360	Anthus rubescens	Buff-bellied Pipit	פיפיון ממושקף	pipyonme	פיפיוןממ					
+361	Anthus pratensis	Meadow Pipit	פיפיון שדות	pipyons	פיפיוןש					
+362	Anthus trivialis	Tree Pipit	פיפיון עצים	pipyonets	פיפיוןע					
+363	Anthus hodgsoni	Olive-backed Pipit	פיפיון זיתי	pipyonz	פיפיוןז					
+364	Anthus cervinus	Red-throated Pipit	פיפיון אדום גרון	pipyonag	פיפיוןאג					
+365	Motacilla alba	White Wagtail	נחליאלי לבן	nahlieli	נחליאלי					
+366	Motacilla flava	Yellow Wagtail	נחליאלי צהוב	nahlieliz	נחליאליצ					
+367	Motacilla citreola	Citrine Wagtail	נחליאלי לימוני	nahlielil	נחליאליל					
+368	Motacilla cinerea	Grey Wagtail	נחליאלי זנבתן	nahlieliz	נחליאליז					
+369	Pycnonotus xanthopygos	Spectacled Bulbul	בולבול ממושקף	bulbul	בולבול					
+372	Troglodytes troglodytes	Wren	גדרון מובהק	gisron	גדרון					
+373	Prunella modularis	Dunnock	סתרי מצוי	sitri	סתרי					
+377	Erithacus rubecula	European Robin	אדום חזה	adomhaze	אדוםח					
+378	Luscinia megarhynchos	Common Nightingale	זמיר הירדן	zamiry	זמירה	זמירהי				
+379	Luscinia luscinia	Thrush Nightingale	זמיר מנומר	zamirm	זמירמ					
+380	Cercotrichas galactotes	Rufous Bush Robin	חמרייה חלודת זנב	hamria	חברייה					
+382	Luscinia svecica	Bluethroat	כחול חזה	kahol	כחולח					
+385	Phoenicurus phoenicurus	Common Redstart	חכלילית עצים	hahlilite	חכליליתע					
+386	Phoenicurus ochruros	Black Redstart	חכלילית סלעים	hahlilits	חכליליתס					
+389	Saxicola rubetra	Whinchat	דוחל חום גרון	dohalh	דוחלחג					
+390	Saxicola rubicola	European Stonechat	דוחל שחור גרון	dohalsh	דוחלשג					
+392	Oenanthe oenanthe	Northern Wheatear	סלעית אירופית	salite	סלעיתא					
+393	Oenanthe isabellina	Isabelline Wheatear	סלעית ערבות	salita	סלעיתע					
+394	Oenanthe deserti	Desert Wheatear	סלעית מדבר	salitm	סלעיתמ					
+395	Oenanthe hispanica	Black-eared Wheatear	סלעית קיץ	salitk	סלעיתק					
+398	Oenanthe finschii	Finsch's Wheatear	סלעית חורף	salith	סלעיתח					
+405	Monticola solitarius	Blue Rock-Thrush	צוקית בודדת	tsukitb	צוקיתב					
+406	Monticola saxatilis	Rufous-tailed Rock-Thrush	צוקית חכלילית	tsukith	צוקיתח					
+407	Turdus philomelos	Song Thrush	קיכלי רונן	kihlir	קיכלי					
+408	Turdus iliacus	Redwing	קיכלי לבן גבה	kihlil	קיכלילג					
+409	Turdus viscivorus	Mistle Thrush	קיכלי גדול	kihlig	קיכליג					
+410	Turdus pilaris	Fieldfare	קיכלי אפור	kihlia	קיכליא					
+411	Turdus merula	Common Blackbird	שחרור	shahrur	שחרור	שחרור - אזהרה				
+416	Cettia cetti	Cetti's Warbler	צטיה חלודית	tsetya	צטיה					
+417	Cisticola juncidis	Zitting Cisticola	תפר 	tapar	תפר					
+418	Prinia gracilis	Graceful Prinia	פשוש	pashosh	פשוש					
+422	Locustella fluviatilis	River Warbler	חרגולן נחלים	hargolann	חרגולןנ					
+423	Locustella luscinioides	Savi's Warbler	חרגולן זמירי	hargolanz	חרגולןז					
+424	Acrocephalus schoenobaenus	Sedge Warbler	קנית פסים	kanitp	קניתפ					
+425	Acrocephalus melanopogon	Moustached Warbler	זמירון	zmiron	זמירון					
+428	Acrocephalus palustris	Marsh Warbler	קנית ביצות	kanitb	קניתב					
+429	Acrocephalus arundinaceus	Great Reed Warbler	קנית אירופית	kanite	קניתאי					
+430	Acrocephalus stentoreus	Clamorous Reed Warbler	קנית אפריקאית	kanita	קניתאפ					
+431	Acrocephalus scirpaceus	Eurasian Reed Warbler	קנית קטנה	kanitk	קניתק					
+435	Hippolais olivetorum	Olive-tree Warbler	שיחנית זית	sihanitz	שיחניתז					
+436	Hippolais languida	Upcher's Warbler	שיחנית גדולה	sihanitg	שיחניתג					
+437	Hippolais pallida	Eastern Olivaceous Warbler	שיחנית קטנה	sihanitk	שיחניתק					
+440	Sylvia borin	Garden Warbler	סבכי אפור	sivhia	סבכיא					
+441	Sylvia nisoria	Barred Warbler	סבכי ניצי	sivhin	סבכינ					
+442	Sylvia atricapilla	Blackcap	סבכי שחור כיפה	sivhishk	סבכישכ					
+443	Sylvia hortensis	Eastern Orphean Warbler	סבכי חורש	sivhih	סבכיח					
+445	Sylvia curruca	Lesser Whitethroat	סבכי טוחנים	sivhit	סבכיט					
+446	Sylvia melanocephala	Sardinian Warbler	סבכי שחור ראש	sivhishr	סבכישר					
+450	Sylvia communis	Common Whitethroat	סבכי קוצים	sivhikots	סבכיק					
+454	Phylloscopus trochilus	Willow Warbler	עלווית אפורה	alvita	עלוויתא					
+455	Phylloscopus sibilatrix	Wood Warbler	עלווית ירוקה	alfity	עלוויתי					
+456	Phylloscopus orientalis	Balkan (Eastern Bonelli's) Warbler	עלווית לבנת בטן	alvitl	עלוויתלב					
+457	Phylloscopus collybita	Chiffchaff	עלווית חורף	alvith	עלוויתח					
+466	Regulus regulus	Goldcrest	מלכילון האורנים	malkilon	מלכילון					
+468	Ficedula parva	Red-breasted Flycatcher	חטפית גמדית	hatafitg	חטפיתג					
+469	Muscicapa striata	Spotted Flycatcher	חטפית אפורה	hatafita	חטפיתא					
+470	Ficedula hypoleuca	Pied Flycatcher	חטפית שחורת עורף	hatafitsh	חטפיתשע					
+471	Ficedula albicollis	Collared Flycatcher	חטפית לבנת עורף	hatafitl	חטפיתלע					
+472	Ficedula semitorquata	Semi-collared Flycatcher	חטפית טורקית	hatafitt	חטפיתט					
+475	Parus major	Great Tit	ירגזי מצוי	irgezi	ירגזי					
+477	Parus lugubris	Sombre Tit	ירגזי חרמון	irgezih	ירגזיח					
+478	Sitta neumayer	Western Rock Nuthatch	סיטת צוקים	sitat	סיטת					
+480	Remiz pendulinus	Eurasian Penduline Tit	רמית	ramit	רמית					
+481	Nectarinia osea	Palestine Sunbird	צופית בוהקת	tsufit	צופית					
+482	Oriolus oriolus	Eurasian Golden Oriole	זהבן מחלל	zeavan	זהבן					
+484	Lanius collurio	Red-backed Shrike	חנקן אדום גב	hankanag	חנקןאג					
+485	Lanius isabellinus	Isabelline Shrike	חנקן ערבות	hankanaravot	חנקןע					
+487	Lanius senator	Woodchat Shrike	חנקן אדום ראש	hankanar	חנקןאר					
+488	Lanius nubicus	Masked Shrike	חנקן נובי	hankann	חנקןנ					
+490	Lanius excubitor	Southern Grey Shrike	חנקן גדול	hankang	חנקןג					
+491	Lanius minor	Lesser Grey Shrike	חנקן שחור מצח	hankanshm	חנקןשמ					
+492	Garrulus glandarius	Eurasian Jay	עורבני שחור כיפה	orvani	עורבני					
+493	Corvus monedula	Western Jackdaw	קאק	kaak	קאק					
+496	Corvus frugilegus	Rook	עורב מזרע	orevm	עורבמ					
+497	Corvus corone cornix	Hooded Crow	עורב אפור	orev	עורב					
+501	Acridotheres tristis	Common Myna	מיינה הודית	mayna	מיינה	מאינה				
+505	Sturnus vulgaris	Common Starling	זרזיר מצוי	zarzir	זרזיר					
+506	Sturnus roseus	Rose-Coloured Starling	זרזיר ארבה	zarzira	זרזירא					
+507	Passer domesticus	House Sparrow	דרור הבית	dror	דרור	דרורים				
+508	Passer hispaniolensis	Spanish Sparrow	דרור ספרדי	drors	דרורס					
+510	Passer moabiticus	Dead Sea Sparrow	דרור הירדן	drory	דרורי	דרורהי				
+511	Petronia petronia	Rock Sparrow	בארית הרים	beerit	בארית					
+513	Petronia brachydactyla	Pale Rockfinch	דרורית קצרת אצבעות	drorit	דרורית					
+514	Euodice malabarica	Indian Silverbill	כסוף מקור הודי	ksuf	כסוףמה					
+515	Fringilla coelebs	Common Chaffinch	פרוש מצוי	parush	פרוש					
+516	Fringilla montifringilla	Brambling	פרוש הרים	parusha	פרושה					
+517	Carduelis cannabina	Common Linnet	תפוחית 	tapuhit	תפוחית					
+518	Carduelis carduelis	European Goldfinch	חוחית	hohit	חוחית					
+519	Carduelis chloris	European Greenfinch	ירקון	yarkon	ירקון					
+520	Carduelis spinus	Eurasian Siskin	חורפי	horpi	חורפי					
+521	Serinus serinus	European Serin	בזבוז אירופי	bazbuzei	בזבוזא					
+522	Serinus syriacus	Syrian Serin	בזבוז לבנון	bazbuzl	בזבוזל					
+525	Coccothraustes coccothraustes	Hawfinch	פצחן	patshan	פצחן					
+527	Carpodacus erythrinus	Common Rosefinch	ורדית אירופית	vardit	ורדית					
+530	Rhodopechys sanguinea	Crimson-winged Finch	חצוצרן חרמון	hatsotsran	חצוצרן					
+532	Emberiza calandra	Corn Bunting	גבתון עפרוני	gabtone	גבתוןע					
+533	Emberiza schoeniclus	Reed Bunting	גבתון סוף	gabtonsuf	גבתוןס					
+536	Emberiza hortulana	Ortolan Bunting	גבתון גנים	gabtong	גבתוןג					
+537	Emberiza caesia	Cretzschmar's Bunting	גבתון אדום מקור	gabtona	גבתוןאמ					
+538	Emberiza citrinella	Yellowhammer	גבתון צהוב	gabtonts	גבתוןצ					
+539	Emberiza leucocephalos	Pine Bunting	גבתון לבן כיפה	gabtonl	גבתוןלכ					
+542	Emberiza melanocephala	Black-headed Bunting	גבתון שחור ראש	gabtonshr	גבתוןשר					
+544	Emberiza cia	Rock Bunting	גבתון סלעים	gabtonsla	גבתוןס					
+										
+										
+										
+										
+										
+600		Natural noise	רעש טבעי	noise	רעש					
+601		Anthropogenic noise	רעש אנתרופוגני	anosie	רעשא					
+602		Silence	שקט							
+603		Siren	סירנה							
+604		Mammal	יונק							
+605		Amphibian	דו חי							
+606		Insect	חרק							
+607		Human	אדם (דיבור)		אדם					
+608		Cranes noise	עגורים (רעש רקע)		עגורר					
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
